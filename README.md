@@ -1,6 +1,8 @@
 # phyton_5
-Source kode:
 
+Source Code :
+
+```py
 print(("[APLIKASI TERBILANG]"))
 
 numbers = input ("Masukkan angka:")
@@ -91,7 +93,8 @@ def multiply(a, b):
 
 result = multiply(2,10)
 print(result) #hasil yang diingankan =2*10=20
+```
 
-Output:
+Output :
 <img width="960" alt="SAVE_20211110_155648" src="https://user-images.githubusercontent.com/93026923/141072914-1658bf3d-6ef1-42e0-b603-af37dd9d348b.png">
 <img width="960" alt="SAVE_20211110_155658" src="https://user-images.githubusercontent.com/93026923/141072929-7a2a3432-1e2b-4596-9085-f36ec72319ad.png">
